@@ -1,7 +1,7 @@
 name: scworks
 favicon: null
 layout_spectrum: 0.10446559893898666
-typography_spectrum: 0.50733
+typography_spectrum: 0.4741011494770646
 title: Seth Cheeks
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#a1a0a5'
     - '#fb453a'
   brandStrength: 1
-  lightness: 0.1875
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
