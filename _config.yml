@@ -1,29 +1,41 @@
-name: scworks
-favicon: null
-layout_spectrum: 0.10446559893898666
-typography_spectrum: 0.4741011494770646
 title: Seth Cheeks
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  lightness: 0.2491039
+  brandStrength: 1
   brandColors:
     - '#dcdcdc'
     - '#18181a'
     - '#555459'
     - '#a1a0a5'
     - '#fb453a'
-  brandStrength: 1
-  lightness: 0.4375
-  saturation: 0.3125
-  rhythmicContrast: 1
-purpose: []
+  rhythmicContrast: 0.8817204
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: scworks
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7849463
+layout_spectrum: 0.9856631
